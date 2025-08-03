@@ -20,6 +20,9 @@
 
 ![スクリーンショット](assets/main.png)
 
+![Animation](assets/animation.gif)
+
+
 
 # 動作環境 (Requirements)
 

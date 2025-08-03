@@ -20,6 +20,8 @@
 
 ![Screenshot](assets/main.png)
 
+![Animation](assets/animation.gif)
+
 
 # Requirements
 

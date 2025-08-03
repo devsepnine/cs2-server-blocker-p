@@ -20,6 +20,9 @@
 
 ![스크린샷](assets/main.png)
 
+![Animation](assets/animation.gif)
+
+
 
 # 요구사항 (Requirements)
 
